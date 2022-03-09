@@ -546,7 +546,7 @@ a {
   justify-content: space-between;
 }
 
-.collapsible_heading {
+.collapsible__heading {
   margin-top: 0;
   font-size: 3rem;
 }
